@@ -23,6 +23,10 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
+          {/* Ajoutez le script pour votre API token de UngAds ici */}
+          <script>
+            const apiToken = 'b34ad9ae4cf04b5e7bafbab108924754'
+          </script>
         </Head>
         <body>
           <Main />
