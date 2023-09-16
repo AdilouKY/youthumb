@@ -25,12 +25,32 @@ class MyDocument extends Document {
           <link rel="manifest" href="/favicon/site.webmanifest" />
           {/* Ajoutez le script pour votre API token de UngAds ici */}
           <script>
-            const apiToken = 'b34ad9ae4cf04b5e7bafbab108924754'
+            {`
+              const apiToken = 'b34ad9ae4cf04b5e7bafbab108924754';
+            `}
           </script>
         </Head>
         <body>
           <Main />
           <NextScript />
+          {/* Your provided text */}
+          <div>
+            <p>
+              YouTube Thumbnail Downloader
+              ▷ Save YouTube Video Thumbnails
+            </p>
+            <p>
+              Obtain high-quality thumbnail images from any YouTube video, including Full HD (1080), HD (720), SD, and smaller sizes. Our platform currently supports various YouTube video formats, including HD, HQ, 1080p, and 4K videos.
+            </p>
+            <p>
+              What's the Purpose of this YouTube Thumbnail Retrieval Website?
+            </p>
+            {/* Add the rest of your text here */}
+            {/* ... */}
+            <p>
+              YouTube Video Thumbnail Download
+            </p>
+          </div>
         </body>
       </Html>
     );
